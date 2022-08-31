@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
 # light-music
-This is the finished version of my music-reacting LEDs project. It does what it says on the tin. Takes a sound file and changes the RGB value of a connected LED strip based on volume. Works on .wav files, could most definitely be adapted to work on other audio formats. Adapt the script to your needs. The code is quite messy. Here is a demo: . 
+This is the finished version of my music-reacting LEDs project. It does what it says on the tin. Takes a sound file and changes the RGB value of a connected LED strip based on volume. Works on .wav files, could most definitely be adapted to work on other audio formats. Adapt the script to your needs. The code is quite messy. Here is a demo: https://drive.google.com/file/d/1v2VmfhHqBDIrM1tZ_HV1oSdyibn4wzjI/view?usp=sharing. 
 
 You need a few things to run this: 
 ---------------------------------
